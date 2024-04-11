@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woremo
-- 👀 Currently shipping code at JUMO.WORLD
+- 👀 Currently shipping code at JUMO.WORLD (@jumo)
 - 🌱 Software Engineer. 
 - 📫 Email me on widioremo@gmail.com
 
