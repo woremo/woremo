@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woremo
-- 👀 I’m interested in Distributed Systems and Microservices
-- 🌱 I’m currently learning Kotlin and Spring Boot
+- 👀 Currently shipping code at JUMO.WORLD
+- 🌱 Software Engineer. 
 - 📫 Email me on widioremo@gmail.com
 
 <!---
