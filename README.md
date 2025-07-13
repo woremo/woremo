@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @woremo
 - 👀 Currently shipping code at JUMO.WORLD (@jumo)
 - 🌱 Software Engineer. 
+- 🧠 Mentoring at https://youtube.com/@widdzz
 - 📫 Email me on widioremo@gmail.com
 
 <!---
